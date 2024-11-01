@@ -1,176 +1,139 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.3">
-  <diagram name="Page-1" id="E3GcWOonLyxDLElr22UN">
+  <diagram name="Page-1" id="Izf-OCcplxusDuufX0_3">
     <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="System" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="8" y="8" width="2833" height="358" as="geometry" />
+        <mxCell id="2" value="Admin" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="8" y="89" width="527" height="289" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="Frontend" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="2">
-          <mxGeometry x="43" y="46" width="1656" height="283" as="geometry" />
+        <mxCell id="3" value="Instructor" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="687" y="8" width="794" height="176" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="User Authentication" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="3">
-          <mxGeometry x="58" y="54" width="191" height="191" as="geometry" />
+        <mxCell id="4" value="User" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="687" y="204" width="1374" height="207" as="geometry" />
         </mxCell>
-        <mxCell id="5" value="Browse Courses" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="3">
-          <mxGeometry x="349" y="69" width="160" height="160" as="geometry" />
+        <mxCell id="5" value="Student" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="719" y="300" width="116" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="6" value="Enroll in Course" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="3">
-          <mxGeometry x="609" y="68" width="162" height="162" as="geometry" />
+        <mxCell id="6" value="Homepage" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="935" y="300" width="135" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="7" value="Access Course Content" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="3">
-          <mxGeometry x="871" y="43" width="213" height="213" as="geometry" />
+        <mxCell id="7" value="Course Page" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1297" y="300" width="147" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="8" value="Submit Assignments" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="3">
-          <mxGeometry x="1184" y="54" width="190" height="190" as="geometry" />
+        <mxCell id="8" value="Quiz" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="284" width="81" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="9" value="View Grades" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="3">
-          <mxGeometry x="1474" y="80" width="139" height="139" as="geometry" />
+        <mxCell id="9" value="Certificate" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1795" y="239" width="138" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="3" source="4" target="5">
+        <mxCell id="10" value="Instructor" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="712" y="43" width="131" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="Dashboard" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="936" y="71" width="135" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="Progress Report" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1285" y="43" width="172" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="Admin" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="80" y="221" width="106" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="Admin Dashboard" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="324" y="221" width="185" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="A,B,C,D,E,F,G,H,I,J" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="33" y="413" width="199" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1863" y="338" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2036" y="356" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="Login" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.49;entryX=0;entryY=0.49;" edge="1" parent="1" source="5" target="6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="3" source="5" target="6">
+        <mxCell id="19" value="Select Course" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;" edge="1" parent="1" source="6" target="7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="3" source="6" target="7">
+        <mxCell id="20" value="View Lessons" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=-0.01;entryY=0.5;" edge="1" parent="1" source="7" target="8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="3" source="7" target="8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="3" source="8" target="9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="15" value="Backend" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="2">
-          <mxGeometry x="1749" y="46" width="1057" height="283" as="geometry" />
-        </mxCell>
-        <mxCell id="16" value="Database" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="15">
-          <mxGeometry x="58" y="125" width="96" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="17" value="Authentication Service" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="15">
-          <mxGeometry x="254" y="43" width="213" height="213" as="geometry" />
-        </mxCell>
-        <mxCell id="18" value="Courses Service" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="15">
-          <mxGeometry x="567" y="69" width="161" height="161" as="geometry" />
-        </mxCell>
-        <mxCell id="19" value="Assessment Service" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="15">
-          <mxGeometry x="827" y="56" width="188" height="188" as="geometry" />
-        </mxCell>
-        <mxCell id="20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="15" source="16" target="17">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="15" source="17" target="18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="15" source="18" target="19">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="23" value="User" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="255" y="416" width="2338" height="435" as="geometry" />
-        </mxCell>
-        <mxCell id="24" value="Assessments" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="23">
-          <mxGeometry x="43" y="99" width="656" height="254" as="geometry" />
-        </mxCell>
-        <mxCell id="25" value="View Grades" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="24">
-          <mxGeometry x="58" y="65" width="139" height="139" as="geometry" />
-        </mxCell>
-        <mxCell id="26" value="Submit Assignment" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="24">
-          <mxGeometry x="430" y="43" width="184" height="184" as="geometry" />
-        </mxCell>
-        <mxCell id="27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.36;entryX=0;entryY=0.37;" edge="1" parent="24" source="25" target="26">
+        <mxCell id="21" value="Pass" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.13;entryX=0;entryY=0.5;" edge="1" parent="1" source="8" target="9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="314" y="81" />
+              <mxPoint x="1753" y="264" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="28" value="Receive Feedback" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.61;entryX=1;entryY=0.63;" edge="1" parent="24" source="26" target="25">
+        <mxCell id="22" value="" style="curved=1;startArrow=none;endArrow=none;exitX=1;exitY=0.58;entryX=Infinity;entryY=Infinity;" edge="1" parent="1" source="8" target="16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="314" y="183" />
+              <mxPoint x="1753" y="338" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="29" value="Courses" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="23">
-          <mxGeometry x="749" y="46" width="758" height="360" as="geometry" />
+        <mxCell id="23" value="Retake" style="curved=1;startArrow=none;endArrow=none;exitX=Infinity;exitY=Infinity;entryX=-Infinity;entryY=-Infinity;" edge="1" parent="1" source="16" target="17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1984" y="338" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="30" value="Browse Courses" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="29">
-          <mxGeometry x="58" y="108" width="160" height="160" as="geometry" />
+        <mxCell id="24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=-Infinity;exitY=-Infinity;entryX=1;entryY=0.84;" edge="1" parent="1" source="17" target="8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1984" y="381" />
+              <mxPoint x="1753" y="381" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="31" value="Enroll" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="29">
-          <mxGeometry x="318" y="143" width="91" height="91" as="geometry" />
+        <mxCell id="25" value="Login" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.16;" edge="1" parent="1" source="10" target="11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="889" y="68" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="32" value="Progress" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="29">
-          <mxGeometry x="607" y="56" width="108" height="108" as="geometry" />
+        <mxCell id="26" value="Create Course" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.84;entryX=0.33;entryY=-0.01;" edge="1" parent="1" source="11" target="7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1178" y="139" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="33" value="Support" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="29">
-          <mxGeometry x="609" y="214" width="105" height="105" as="geometry" />
+        <mxCell id="27" value="View Student Progress" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.28;entryX=0;entryY=0.5;" edge="1" parent="1" source="11" target="12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1178" y="68" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="29" source="30" target="31">
+        <mxCell id="28" value="Login" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="13" target="14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="35" value="Start Course" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.23;entryX=0;entryY=0.5;" edge="1" parent="29" source="31" target="32">
+        <mxCell id="29" value="Manage Courses" style="curved=1;startArrow=none;endArrow=block;exitX=0.65;exitY=0;entryX=0.02;entryY=1;" edge="1" parent="1" source="14" target="11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="508" y="110" />
+              <mxPoint x="535" y="139" />
+              <mxPoint x="889" y="139" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="36" value="Request Help" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.77;entryX=0;entryY=0.5;" edge="1" parent="29" source="31" target="33">
+        <mxCell id="30" value="Manage Users" style="curved=1;startArrow=none;endArrow=block;exitX=0.7;exitY=1;entryX=0;entryY=0.49;" edge="1" parent="1" source="14" target="5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="508" y="267" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="37" value="Authentication" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="23">
-          <mxGeometry x="1557" y="112" width="754" height="228" as="geometry" />
-        </mxCell>
-        <mxCell id="38" value="Register" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="37">
-          <mxGeometry x="58" y="98" width="89" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="39" value="Login" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="37">
-          <mxGeometry x="247" y="78" width="87" height="87" as="geometry" />
-        </mxCell>
-        <mxCell id="40" value="Reset Password" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="37">
-          <mxGeometry x="554" y="43" width="158" height="158" as="geometry" />
-        </mxCell>
-        <mxCell id="41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.49;entryX=-0.01;entryY=0.51;" edge="1" parent="37" source="38" target="39">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="42" value="Forgot Password" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.37;entryX=0;entryY=0.39;" edge="1" parent="37" source="39" target="40">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="444" y="81" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="43" value="New Password" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.61;entryX=1;entryY=0.64;" edge="1" parent="37" source="40" target="39">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="444" y="163" />
+              <mxPoint x="535" y="324" />
             </Array>
           </mxGeometry>
         </mxCell>
